@@ -17,7 +17,7 @@ How to run the project
 Run Main.py
 
 Libraries
-Only the cmu_graphics library needs to be installed
+The cmu_graphics library needs to be installed
 
 Shortcuts
 None
